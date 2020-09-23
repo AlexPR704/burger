@@ -9,7 +9,7 @@ This burger logger will allow you to add your desired burgers to a MySql databas
 
 # Getting Started
 1. code: https://github.com/AlexPR704/burger;
-2. https://mysterious-temple-94788.herokuapp.com/;
+2. Deployed Link: https://polar-lowlands-33596.herokuapp.com/;
 
 # Instructions
 Follow the link above to visit the deployed site.
