@@ -1,6 +1,5 @@
 
 .jumbotron {
-    background-image: url("../img/burgerpic2.png");
     background-repeat: no-repeat;
     background-position: right;
     background-color: #000000;
@@ -22,3 +21,20 @@
     text-align: center;
     font-size: 1.3em;
   }
+
+  body{
+    background:  gold;
+    }
+    h1 {
+    color: white;
+    text-shadow: -1px 1px 2px #000,
+            1px 1px 2px #000,
+            1px -1px 0 #000,
+            -1px -1px 0 #000;
+    }
+    
+    img {
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    }
