@@ -1,0 +1,22 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Burger is a restaurant app that lets users input the names of burgers they'd like to eat.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexPR704/burger.git"
+  },
+  "author": "Alexander Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexPR704/burger/issues"
+  },
+  "homepage": "https://github.com/AlexPR704/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
