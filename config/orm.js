@@ -1,6 +1,15 @@
 // Import MySQL connection.
 var connection = require('../config/connection');
 
+// Helper function for SQL syntax.
+function createQmarks(num) {
+    var arr = [];
+    for (var i = 0; i < num; i++) {
+      arr.push('?');
+    }
+    return arr.toString();
+  }
+  
 // Object for all our SQL statement functions.
 var orm = {
     selectAll: function (table, cb) {
