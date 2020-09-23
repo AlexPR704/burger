@@ -8,7 +8,7 @@ Burger is a restaurant app that lets users select the burgers they'd like to eat
 This burger logger will allow you to add your desired burgers to a MySql database and delete said burger at the click of a button.
 
 # Getting Started
-1. https://alexpr704.github.io/burger/;
+1. code: https://github.com/AlexPR704/burger;
 2. https://mysterious-temple-94788.herokuapp.com/;
 
 # Instructions
